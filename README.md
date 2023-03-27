@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**samarthbsss/samarthbsss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **samarthbsss/samarthbsss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 # 💫 About Me:
   Hi there! I'm Samarth, a full-stack developer currently learning the MERN stack. I'm passionate about creating elegant and efficient solutions to complex problems, and I'm excited to be part of the rapidly evolving world of web development. With a strong foundation in HTML, CSS, and JavaScript, I'm currently expanding my skills in React, Node.js, and MongoDB.
