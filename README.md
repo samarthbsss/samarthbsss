@@ -15,7 +15,7 @@ I'm always looking to connect with other developers, so feel free to drop me a m
 
 
 <div align="left">
-  <a href="https://govindpasi.github.io/" target="_blank">
+  <a href="https://samarthbsss.github.io" target="_blank">
    Portfolio
   </a>
 </div>
