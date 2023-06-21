@@ -7,6 +7,15 @@
   Hi there! I'm Samarth, a full-stack developer currently learning the MERN stack. I'm passionate about creating elegant and efficient solutions to complex problems, and I'm excited to be part of the rapidly evolving world of web development. With a strong foundation in HTML, CSS, and JavaScript, I'm currently expanding my skills in React, Node.js, and MongoDB.
 I'm always looking to connect with other developers, so feel free to drop me a message or check out my latest projects!
 
+- 👨‍💻 All of my projects are available at [https://samarthbsss.github.io/](https://samarthbsss.github.io/)
+- 
+- 💬 Ask me about **ReactJS | JavaScript | Chakra UI | Bootstrap | Material UI | Redux | HTML | CSS | Java**
+
+- 📫 How to reach me **samarthbsacharya@gmail.com**
+
+- 📄 Know about my experiences [https://www.dropbox.com/s/c1dhnaj5tp7hnf2/Samarth-B-S-Resume.pdf?dl=0](https://www.dropbox.com/s/c1dhnaj5tp7hnf2/Samarth-B-S-Resume.pdf?dl=0)
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samarthbsacharya/) 
  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
