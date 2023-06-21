@@ -15,10 +15,10 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samarthbsacharya/)
 
-    <a href="https://github.com/Bharat-Shaw" target="blank">
+ <a href="https://github.com/samarthbsss" target="blank">
             <img align="center"
                 src="https://img.icons8.com/3d-fluency/94/github.png"
-                alt="https://github.com/Bharat-Shaw" width="40px"/>
+                alt="https://github.com/samarthbsss" width="40px"/>
         </a>
  
 
