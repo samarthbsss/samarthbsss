@@ -9,7 +9,7 @@ I'm always looking to connect with other developers, so feel free to drop me a m
 
   Portfolio :https://samarthbsss.github.io
   
-- 👨‍💻 All of my projects are available at [Portfolio](https://samarthbsss.github.io)
+
   
 - 💬 Ask me about **ReactJS | JavaScript | Chakra UI | Bootstrap | Material UI | Redux | HTML | CSS | Java**
 
