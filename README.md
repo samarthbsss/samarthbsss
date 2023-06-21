@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-Hi there! I'm Samarth, a full-stack developer currently learning the MERN stack. I'm passionate about creating elegant and efficient solutions to complex problems, and I'm excited to be part of the rapidly evolving world of web development. With a strong foundation in HTML, CSS, and JavaScript, I'm currently expanding my skills in React, Node.js, and MongoDB. I'm always looking to connect with other developers, so feel free to drop me a message or check out my latest projects!
+          I'm Samarth, a full-stack developer currently learning the MERN stack. I'm passionate about creating elegant and efficient solutions to complex problems, and I'm excited to be part of the rapidly evolving world of web development. With a strong foundation in HTML, CSS, and JavaScript, I'm currently expanding my skills in React, Node.js, and MongoDB. I'm always looking to connect with other developers, so feel free to drop me a message or check out my latest projects!
 
 Portfolio: [https://samarthbsss.github.io/](https://samarthbsss.github.io/)
 
