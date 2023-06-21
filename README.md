@@ -14,6 +14,9 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samarthbsacharya/)
+  <a href="https://github.com/samarthbsss?tab=followers">
+        <img src="https://img.shields.io/github/followers/Bharat-Shaw?label=Followers&style=social" alt="GitHub Badge">
+    </a>
 
 
 # 💻 Tech Stack:
