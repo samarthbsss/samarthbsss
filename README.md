@@ -39,6 +39,12 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samarthbsss&theme=dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samarthbsss&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
+
+## 🏆 Trophies :
+<br/>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samarthbsss&theme=onedark" alt="samarth" /></a> </p>
+
+
 ### ✍️ Random Dev Quote
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
