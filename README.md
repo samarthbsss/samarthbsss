@@ -33,8 +33,8 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samarthbsss&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samarthbsss&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samarthbsss&theme=transparent&hide_border=true&include_all_commits=false&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samarthbsss&theme=transparent&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samarthbsss&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 
