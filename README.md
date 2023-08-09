@@ -33,10 +33,12 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samarthbsss&theme=transparent&hide_border=true&include_all_commits=false&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samarthbsss&theme=transparent&hide_border=true)
+
 <div align="center">
-<!--    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samarthbsss&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact) -->
+<!--    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samarthbsss&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact) 
+   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samarthbsss&theme=transparent&hide_border=true&include_all_commits=false&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samarthbsss&theme=transparent&hide_border=true)
+   -->
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=samarthbsss&theme=transparent&hide_border=true"/>
    <img src="https://github-readme-stats.vercel.app/api?username=samarthbsss&theme=transparent&hide_border=true&include_all_commits=false&count_private=true"/>
    <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthbsss&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
