@@ -6,7 +6,7 @@
 
 <h2><a href="https://samarthbsss.github.io/">🌍 | Portfolio </a></h2>
 
-- 💬 Ask me about **ReactJS | JavaScript | Chakra UI | Bootstrap | Material UI | Redux | HTML | CSS | Java**
+- 💬 Ask me about **ReactJS |  JavaScript | Chakra UI | Bootstrap | Material UI | Redux | HTML | CSS | Java**
 - 📫 How to reach me: samarthbsacharya@gmail.com
 - 📄 Know about my experiences: [Resume](https://www.dropbox.com/s/c1dhnaj5tp7hnf2/Samarth-B-S-Resume.pdf?dl=0)
 
