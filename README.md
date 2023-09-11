@@ -17,7 +17,7 @@
             <img align="center"
                 src="https://img.icons8.com/3d-fluency/94/github.png"
                 alt="https://github.com/samarthbsss" width="40px"/>
-        </a>
+  </a>
  
 
 
@@ -59,4 +59,4 @@
 [![Visits](https://visitcount.itsvg.in/api?id=samarthbsss&icon=0&color=0)](https://visitcount.itsvg.in)
  <a href="https://github.com/samarthbsss?tab=followers">
         <img src="https://img.shields.io/github/followers/Bharat-Shaw?label=Followers&style=social" alt="GitHub Badge">
-    </a>
+</a>
