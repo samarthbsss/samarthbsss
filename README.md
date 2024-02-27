@@ -13,14 +13,6 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samarthbsacharya/)
 
- <a href="https://github.com/samarthbsss" target="blank">
-            <img align="center"
-                src="https://img.icons8.com/3d-fluency/94/github.png"
-                alt="https://github.com/samarthbsss" width="40px"/>
-  </a>
- 
-
-
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
